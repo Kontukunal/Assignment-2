@@ -34,4 +34,4 @@ A simple and visually appealing personal portfolio website designed to showcase 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/personal-portfolio.git
+   git clone https://github.com/Kontukunal/Assignment-2
